@@ -9,5 +9,5 @@ intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   ipsum dolor sit amet consectetur adipiscing elit ut. Purus gravida quis
   blandit turpis cursus in hac. Sagittis purus sit amet volutpat consequat
   mauris nunc congue.
-image: /assets/anonymous-person-showing-recycle-symbol-on-smartphone-3850542.jpg
+image: /assets/lol.jpg
 ---
